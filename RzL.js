@@ -1095,7 +1095,7 @@ menu =
 ➪ *Permanen :* _10.000_
 
 ───────────────
-*_By RzLModz_* :
+*_By DanzBot_* :
 ───────────────
 \`\`\`OPEN MURIDBOT :\`\`\`
 ➪ *Murid biasa :* _20.000_
@@ -1115,10 +1115,10 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 gambar = fs.readFileSync('./media/sewa.jpg')
 menunya = `*「 PAYMENT 」*
 
-• Gopay : _088274342094_
-• Dana : _088274342094_
+• Gopay : _088270863279_
+• Dana : _088270863279_
 • Qris All pay : _Scan diatas ngab_
-• Pulsa : _083836899381_
+• Pulsa : _088270863279_
 • _NOTE :kirim bukti TF ke owner !_`
 but = [
 { buttonId: `${prefix}menu`, buttonText: { displayText: 'ᴍᴇɴᴜ' }, type: 1 },
